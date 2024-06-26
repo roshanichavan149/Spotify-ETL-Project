@@ -4,7 +4,6 @@ The dataset used for this project is available on Kaggle: https://www.kaggle.com
 Project Overview
 This project involves developing an ETL (Extract, Transform, Load) data pipeline for Spotify data using various AWS services. The main components of the pipeline include Amazon S3 for data storage, AWS Glue for data transformation, and Amazon Athena for querying the transformed data. The goal is to clean, join, and transform the raw data, resulting in a structured data warehouse in S3, and create a database with tables using AWS Glue Crawler.
 
-Architecture Diagram
 
 Components and Process
 Amazon S3 (Staging Folder):
